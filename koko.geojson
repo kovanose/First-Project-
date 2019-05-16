@@ -1,0 +1,761 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.916401,
+          36.645628
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Naze",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=1598",
+        "Area": "2000km",
+        "hieght": "220m",
+        "inhabitants": 35,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ko",
+        "line": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.795638,
+          36.54095
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Cuqe",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=269",
+        "Area": "233km",
+        "hieght": "220m",
+        "inhabitants": 36,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ko",
+        "line": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.830901,
+          36.637025
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Miydan ekbse",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=1615",
+        "Area": "1233km",
+        "hieght": "220m",
+        "inhabitants": 37,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ko",
+        "line": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.765372,
+          36.545906
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Gund� Dargir�",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=290",
+        "Area": "499km",
+        "hieght": "220m",
+        "inhabitants": 38,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ko",
+        "line": "red"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.047787,
+          36.653771
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "yazi bax",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=37",
+        "Area": "322km",
+        "hieght": "220m",
+        "inhabitants": 39,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ko",
+        "line": "red"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.703949,
+          36.51619
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Kaxr�",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=262",
+        "Area": "3234km",
+        "hieght": "220m",
+        "inhabitants": 40,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ko",
+        "line": "red"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.872756,
+          36.657816
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "GundNaza",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=1598",
+        "Area": "44km",
+        "hieght": "220m",
+        "inhabitants": 41,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ko",
+        "line": "yellow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.916401,
+          36.645644
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Naze1",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=1598",
+        "Area": "2000km",
+        "hieght": "220m",
+        "inhabitants": 35,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ok",
+        "line": "yellow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.795638,
+          36.54033
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Cuqe2",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=269",
+        "Area": "233km",
+        "hieght": "220m",
+        "inhabitants": 36,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ok",
+        "line": "yellow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.830901,
+          36.637032
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Miydan ekbse",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=1615",
+        "Area": "1233km",
+        "hieght": "220m",
+        "inhabitants": 37,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ok",
+        "line": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.765372,
+          36.545955
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Gund� Dargir�",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=290",
+        "Area": "499km",
+        "hieght": "220m",
+        "inhabitants": 38,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ok",
+        "line": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.047787,
+          36.653722
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "yazi bax",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=37",
+        "Area": "322km",
+        "hieght": "220m",
+        "inhabitants": 39,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ok",
+        "line": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.703949,
+          36.51622
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Kaxr�",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=262",
+        "Area": "3234km",
+        "hieght": "220m",
+        "inhabitants": 40,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ok",
+        "line": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.872756,
+          36.657812
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "GundNaza",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=1598",
+        "Area": "44km",
+        "hieght": "220m",
+        "inhabitants": 41,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ok",
+        "line": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.916401,
+          36.645628
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Naze",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=1598",
+        "Area": "2000km",
+        "hieght": "220m",
+        "inhabitants": 35,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ko",
+        "line": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.795638,
+          36.54095
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Cuqe",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=269",
+        "Area": "233km",
+        "hieght": "220m",
+        "inhabitants": 36,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ko",
+        "line": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.830901,
+          36.637025
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Miydan ekbse",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=1615",
+        "Area": "1233km",
+        "hieght": "220m",
+        "inhabitants": 37,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ko",
+        "line": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.765372,
+          36.545906
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Gund� Dargir�",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=290",
+        "Area": "499km",
+        "hieght": "220m",
+        "inhabitants": 38,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ko",
+        "line": "red"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.047787,
+          36.653771
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "yazi bax",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=37",
+        "Area": "322km",
+        "hieght": "220m",
+        "inhabitants": 39,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ko",
+        "line": "red"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.703949,
+          36.51619
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Kaxr�",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=262",
+        "Area": "3234km",
+        "hieght": "220m",
+        "inhabitants": 40,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ko",
+        "line": "red"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.872756,
+          36.657816
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "GundNaza",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=1598",
+        "Area": "44km",
+        "hieght": "220m",
+        "inhabitants": 41,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ko",
+        "line": "yellow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.916401,
+          36.645644
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Naze1",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=1598",
+        "Area": "2000km",
+        "hieght": "220m",
+        "inhabitants": 35,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ok",
+        "line": "yellow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.795638,
+          36.54033
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Cuqe2",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=269",
+        "Area": "233km",
+        "hieght": "220m",
+        "inhabitants": 36,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ok",
+        "line": "yellow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.830901,
+          36.637032
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Miydan ekbse",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=1615",
+        "Area": "1233km",
+        "hieght": "220m",
+        "inhabitants": 37,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ok",
+        "line": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.765372,
+          36.545955
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Gund� Dargir�",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=290",
+        "Area": "499km",
+        "hieght": "220m",
+        "inhabitants": 38,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ok",
+        "line": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.047787,
+          36.653722
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "yazi bax",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=37",
+        "Area": "322km",
+        "hieght": "220m",
+        "inhabitants": 39,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ok",
+        "line": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.703949,
+          36.51622
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "Kaxr�",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=262",
+        "Area": "3234km",
+        "hieght": "220m",
+        "inhabitants": 40,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ok",
+        "line": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.872756,
+          36.657812
+        ]
+      },
+      "properties": {
+        "Nameofvillage": "GundNaza",
+        "Link": "https://ciyaye-kurmenc.com/doc/?p=1598",
+        "Area": "44km",
+        "hieght": "220m",
+        "inhabitants": 41,
+        "images": "https://ciyaye-kurmenc.com/doc/wp-content/uploads/2014/03/header3.jpg",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "kind": "ok",
+        "line": "orange"
+      }
+    }
+  ]
+}
